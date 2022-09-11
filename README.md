@@ -9,7 +9,8 @@ This is the project for improving my programming skill in Python.
 
 ## Plan of study
 
-This programming improvement program is divided into 4 weeks of practice sessions.
+This programming improvement is divided into 4 weeks of practice sessions. 
+Check out my [Project Task Board](https://github.com/users/Tanabodee-Yambangyang/projects/6/views/2).
 
 ### Week 1
 
