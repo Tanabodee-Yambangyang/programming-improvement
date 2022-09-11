@@ -12,7 +12,12 @@ This is the project for improving my programming skill in Python.
 This programming improvement is divided into 4 weeks of practice sessions. 
 Check out my [Project Task Board](https://github.com/users/Tanabodee-Yambangyang/projects/6/views/2).
 
+A summary of what I've learned and improved every week is in [Summary Wiki](../../wiki/Home). 
+
 ### Week 1
 
 * Read some books and website for improving my Object-Oriented Programming.
 * Do some coding exercise Object-Oriented Programming.
+
+[Summary of Week 1](../../wiki/Week-1).
+
