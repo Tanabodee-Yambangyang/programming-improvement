@@ -28,3 +28,10 @@ A summary of what I've learned and improved every week is in [Summary Wiki](../.
 * Do some coding Object-Oriented Programming Exercise - Classes and Objects Exercises.
 
 [Summary of Week 2](../../wiki/Week-2) and [Tasks board](https://github.com/users/Tanabodee-Yambangyang/projects/6/views/3)
+
+
+### Week 3
+* Read some books or documents and study for improving my Object-Oriented Programming about @property decorator.
+* Do some coding Object-Oriented Programming Exercise about @property decorator.
+
+[Summary of Week 3](../../wiki/Week-3) and [Tasks board](https://github.com/users/Tanabodee-Yambangyang/projects/6/views/4)
